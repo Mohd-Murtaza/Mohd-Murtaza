@@ -12,9 +12,9 @@
 
 <br/>
 
-Hi, I'm [Murtaza](https://github.com/Mohd-Murtaza), passionate for learning with an endless supply of optimism and curiosity.
+Hi, I'm [Murtaza](https://github.com/Mohd-Murtaza), passionate about learning with an endless supply of optimism and curiosity.
 <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
-I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
+I'm a solution-driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
   
 - 💼 any freelance work? do reach, [email](mailto:mohd.murtaza0101@gmail.com) :)
 - 💬 ask me about anything, I would love to help ;)
@@ -22,6 +22,7 @@ I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly pas
 
 
 <br>
+<br/>
 <span><h2 align="center">Languages and Tools:</h2>
   <br>
   <p align="center">
@@ -48,7 +49,7 @@ I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly pas
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Murtaza&theme=radical&langs_count=8" alt="Mohd Murtaza" height="260px" width="50%" margin="auto"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Murtaza&theme=radical&langs_count=8" alt="Mohd Murtaza" height="260px" width="80%"/>
 
   
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
