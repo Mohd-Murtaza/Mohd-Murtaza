@@ -1,4 +1,4 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/mohd-murtaza-20a86027a/">
   <img align="left" alt="Murtaza's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
@@ -9,14 +9,8 @@
 </a>
 
 <br />
-
-
 Hi, I'm [Murtaza](https://github.com/Mohd-Murtaza), passionate for learning with an endless supply of optimism and curiosity.
-
-
-  <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
-  
-  
+<img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
 I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
   
 - 💼 any freelance work? do reach, [email](mailto:mohd.murtaza0101@gmail.com) :)
