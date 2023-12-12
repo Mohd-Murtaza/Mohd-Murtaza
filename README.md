@@ -42,15 +42,13 @@ I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly pas
 <br /><br />
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Murtaza&theme=radical" alt="Mohd Tazammul" height="250px" width="47%" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Murtaza&theme=radical" alt="Mohd Murtaza" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mohd-Murtaza&show_icons=true&theme=radical" height="255px" width="47%"/>
 <div>
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Murtaza&theme=radical&langs_count=8" alt="Mohd Tazammul" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Mohd-Murtaza&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
-<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Murtaza&theme=radical&langs_count=8" alt="Mohd Murtaza" height="260px" width="50%" margin="auto"/>
 
   
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
