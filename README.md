@@ -9,7 +9,6 @@
 </a>
 
 <br />
-![](https://visitor-badge.glitch.me/badge?page_id=Mohd-Murtaza.Mohd-Murtaza)
 
 <br/>
 
