@@ -49,7 +49,7 @@ I'm a solution-driven Full Stack Web Developer skilled in MERN Stack. Highly pas
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Murtaza&theme=radical&langs_count=8" alt="Mohd Murtaza" height="260px" width="80%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Murtaza&theme=radical&langs_count=8" alt="Mohd Murtaza" height="260px" width="100%"/>
 
   
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
