@@ -1,10 +1,10 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-<a href="https://www.linkedin.com/in/mohd-murtaza-20a86027a/">
+<a href="https://www.linkedin.com/in/mohd-murtaza-20a86027a/" target="blank">
   <img align="left" alt="Murtaza's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
-<a href="https://leetcode.com/user7111tt/">
+<a href="https://leetcode.com/user7111tt/" target="blank">
   <img align="left" alt="Murtaza's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
 </a>
 
