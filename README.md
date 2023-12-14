@@ -18,7 +18,7 @@ Hi, I'm [Murtaza](https://github.com/Mohd-Murtaza), passionate about learning wi
 <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
 I'm a solution-driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
   
-- 💼 any freelance work? do reach, [email](mailto:mohd.murtaza0101@gmail.com) :)
+- 💼 any freelance work? do reach, [mohd.murtaza0101@gmail.com](mailto:mohd.murtaza0101@gmail.com) :)
 - 💬 ask me about anything, I would love to help ;)
 
 
