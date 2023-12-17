@@ -12,7 +12,7 @@
 
 <br/>
 
-Hi, I'm [Murtaza](https://github.com/Mohd-Murtaza), passionate about learning with an endless supply of optimism and curiosity.
+<h3>Hi, I'm [Murtaza](https://github.com/Mohd-Murtaza), passionate about learning with an endless supply of optimism and curiosity.</h3>
 <br/>
 <br />
 <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
