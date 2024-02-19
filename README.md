@@ -8,10 +8,6 @@
   <img align="left" alt="Murtaza's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
 </a>
 
-<a href="https://mohd-murtaza.github.io/" target="_blank">
-  <img align="left" alt="Murtaza's Portfolio" width="100px" src="https://cdn.icon-icons.com/icons2/537/PNG/96/portfolio-suitcase_icon-icons.com_52927.png" />
-</a>
-
 <br />
 
 <br/>
