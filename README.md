@@ -4,7 +4,7 @@
   <img align="left" alt="Murtaza's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
-<a href="https://leetcode.com/user7111tt/" target="_blank">
+<a href="https://leetcode.com/u/Mohd_Murtaza/" target="_blank">
   <img align="left" alt="Murtaza's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
 </a>
 
