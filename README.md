@@ -26,18 +26,18 @@ I'm a solution-driven Full Stack Web Developer skilled in the MERN Stack. I'm pa
 <br />
 
 <h2 align="center">Languages and Tools:</h2>
-<p display="flex" justify-content="space-around">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
-  <img src="https://www.svgrepo.com/show/376367/express.svg" alt="Express" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
-  <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="Material-UI" width="55" height="55"/>
-  <img src="https://www.svgrepo.com/show/330132/chakraui.svg" alt="Chakra UI" width="55" height="55"/>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55" margin="0px 10px"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="55" height="55" margin="0px 10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" margin="0px 10px"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55" margin="0px 10px"/>
+  <img src="https://www.svgrepo.com/show/376367/express.svg" alt="Express" width="55" height="55" margin="0px 10px"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="55" height="55" margin="0px 10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="55" height="55" margin="0px 10px"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55" height="55" margin="0px 10px"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55" margin="0px 10px"/>
+  <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="Material-UI" width="55" height="55" margin="0px 10px"/>
+  <img src="https://www.svgrepo.com/show/330132/chakraui.svg" alt="Chakra UI" width="55" height="55" margin="0px 10px"/>
 </p>
 
 <br />
