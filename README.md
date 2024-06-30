@@ -8,7 +8,7 @@
   <img align="left" alt="Murtaza's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohd-Murtaza&label=Profile%20views&color=0e75b6&style=flat" alt="Mohd-Murtaza" /> </p>
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=Mohd-Murtaza&label=Profile%20views&color=0e75b6&style=flat" alt="Mohd-Murtaza" /> </a>
 
 <br />
 
