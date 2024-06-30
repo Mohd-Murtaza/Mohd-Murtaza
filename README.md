@@ -25,8 +25,8 @@ I'm a solution-driven Full Stack Web Developer skilled in the MERN Stack. I'm pa
 
 <br />
 
-<h2 align="space-around">Languages and Tools:</h2>
-<p align="space-around">
+<h2 align="center">Languages and Tools:</h2>
+<p display="flex" justify-content="space-around">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
