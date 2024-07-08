@@ -6,8 +6,8 @@ I'm a solution-driven Full Stack Web Developer skilled in the MERN Stack. I'm pa
 
 - 💼 Any freelance work? Reach me at [mohd.murtaza0101@gmail.com](mailto:mohd.murtaza0101@gmail.com)
 - 💬 Ask me about anything; I'm here to help!
-- 🖇️ Check out my <a href="https://mohd-murtaza.github.io/" target="_blank">Portfolio</a>
-- 🗃️ See my latest MERN Project: <a href="https://fiverr-clone-murtaza.netlify.app/" target="_blank">Fiverr Clone</a>
+- 🖇️ Check out my <a href="https://mohd-murtaza.github.io/" target="blank">Portfolio</a>
+- 🗃️ See my latest MERN Project: <a href="https://fiverr-clone-murtaza.netlify.app/" target="blank">Fiverr Clone</a>
 
 <br />
 
