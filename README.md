@@ -1,14 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<a href="https://www.linkedin.com/in/mohd-murtaza-20a86027a/" target="_blank">
-  <img align="left" alt="Murtaza's LinkedIn" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
-</a>
-
-<a href="https://leetcode.com/u/Mohd_Murtaza/" target="_blank">
-  <img align="left" alt="Murtaza's LeetCode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
-</a>
-
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=Mohd-Murtaza&label=Profile%20views&color=0e75b6&style=flat" alt="Mohd-Murtaza" /> </a>
 
 <br />
 
