@@ -39,7 +39,7 @@ I'm a solution-driven Full Stack Web Developer skilled in the MERN Stack. I'm pa
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Murtaza&theme=radical&langs_count=8" alt="Mohd Murtaza" height="260px" width="100%"/>
 </div>
-## Feeding...
+
 ![Snake animation](https://raw.githubusercontent.com/mohd-murtaza/mohd-murtaza/output/github-contribution-grid-snake-dark.svg)
 
 <br />
